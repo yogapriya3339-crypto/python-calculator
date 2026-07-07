@@ -1,8 +1,5 @@
 # python-calculator
 A simple calculator built using python.
-# Python Calculator
-
-A simple calculator built using Python.
 
 ## Features
 - Addition
